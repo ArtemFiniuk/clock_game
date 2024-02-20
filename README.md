@@ -5,12 +5,14 @@
 
 ### Index
 
-* [Introduction](#introduction)
-* [Languages](#languages)
-* [Usage](#usage)
-* [Packages](#packages)
-* [Screenshots](#screenshots)
-* [Attributions](#attributions)
+- [Clock Game](#clock-game)
+    - [Index](#index)
+    - [Introduction](#introduction)
+    - [Languages](#languages)
+    - [Usage](#usage)
+    - [Packages](#packages)
+    - [Screenshots](#screenshots)
+    - [Attributions](#attributions)
 
 ### Introduction
 
@@ -27,7 +29,7 @@ To clone and run this application, you'll need [git](https://git-scm.com) and [f
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/recepbasturk/clock_game
+$ git clone https://github.com/ArtemFiniuk/clock_game
 
 # Go into the repository
 $ cd clock_game
